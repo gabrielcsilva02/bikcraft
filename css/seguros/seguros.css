@@ -57,10 +57,15 @@
   background-image: url("../../img/icones/lista.svg");
   position: absolute;
   left: -21px;
+  border-radius: 4px;
 }
 
 @media (max-width: 800px) {
   .seguros {
     grid-template-columns: 1fr;
   }
+}
+
+#seguros .seguros {
+  padding-top: 0px;
 }
