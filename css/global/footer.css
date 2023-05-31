@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .footer-bg {
   background-color: var(--cor-12);
 }
@@ -67,4 +68,8 @@
   .footer-copy {
     margin-top: 0px;
   }
+=======
+.footer-bg {
+  background-color: var(--cor-12);
+>>>>>>> Stashed changes
 }
